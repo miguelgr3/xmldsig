@@ -10,8 +10,7 @@ vendor/
 build/
 .phpunit.result.cache
 
-tests/example-test.xml
-tests/signed-example.xml
+
 
 
 
